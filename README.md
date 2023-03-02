@@ -29,11 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[videoWalkThrough](https://www.loom.com/share/c0977c98a7bf415cb1feeb94e73fac61)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
@@ -45,7 +42,7 @@ I went back to Autu layout basic link to review
 
 ###Not able to navigate to detailViewController ------ I still get stuck on this
 
-[![Watch the video]](https://www.loom.com/share/fecc271a42304c1fae69b8d7e9ef28be')
+[[Watch the video]](https://www.loom.com/share/fecc271a42304c1fae69b8d7e9ef28be')
 
 The object should be Spiderman but it's exit which doesn't allow app to navigate to detailView
 
