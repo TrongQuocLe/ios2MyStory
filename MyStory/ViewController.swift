@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         // Store detail of spiderman models
         details = [backstory, weakness, lift]
     }
-//
+//  
 //    @IBAction func didTapDetail(_ sender: UITapGestureRecognizer) {
 //            if let tappedView = sender.view {
 //                performSegue(withIdentifier: "detailSegue", sender: tappedView)
